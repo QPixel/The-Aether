@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-15T16:24:50.5106891	Item Models: aether
+// 1.20.1	2023-12-29T16:57:56.152344	Item Models: aether
 88dbeab79e0017737773db746d2e719a21fdb198 assets/aether/models/item/aechor_petal.json
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/aether/models/item/aechor_plant_spawn_egg.json
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/aether/models/item/aerbunny_spawn_egg.json
@@ -86,6 +86,7 @@ cd27f7843c9b7e54752cd3b916134f4aac68cf7c assets/aether/models/item/enchanted_dar
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/aether/models/item/flying_cow_spawn_egg.json
 151f7ec0ce71d11b3ea7b859d28dda255c1d0905 assets/aether/models/item/freezer.json
 9c9c68308a2abf2d42bad14f9f59f3aa27899f7d assets/aether/models/item/gingerbread_man.json
+d297a0b44e26161e8d10861f605095441cbcde58 assets/aether/models/item/gold_dungeon_key.json
 e6a93fe6cd2541c5fd1bbcbed023c627bfa2ac12 assets/aether/models/item/golden_aercloud.json
 61b39d971288685756130274b0f1e6f39cccde3c assets/aether/models/item/golden_amber.json
 b3c7bef4591ceccc542961dc9aba4010396bed2e assets/aether/models/item/golden_dart.json
@@ -111,7 +112,6 @@ a63a015c88ff075031102fa28286ff75b4a6410f assets/aether/models/item/golden_parach
 4f3202e750d747e5d5188cd4f2a2be3bab7cd33c assets/aether/models/item/golden_pendant.json
 e3772254275d9748bdf986f6d8579ecc05015697 assets/aether/models/item/golden_ring.json
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/aether/models/item/golden_swet_spawn_egg.json
-d297a0b44e26161e8d10861f605095441cbcde58 assets/aether/models/item/gold_dungeon_key.json
 39ec937a62ab72c3a65cfb21ed00e267b108ab46 assets/aether/models/item/gravitite_axe.json
 35e96073ea21e0c1e1d9bafd3139625ee45e8b1d assets/aether/models/item/gravitite_boots.json
 de29b1729664b88305debc6528fd27616abb1928 assets/aether/models/item/gravitite_boots_amethyst_trim.json
@@ -182,12 +182,13 @@ c5dbee0a4fb9028b8e4cff172aa4379a41213560 assets/aether/models/item/hellfire_stai
 665e3fff09c145ad098cab6e38ae8ee36a616dff assets/aether/models/item/hellfire_stone.json
 d0219b1b859e175bac1fe49103f24a45bfda71ff assets/aether/models/item/hellfire_wall.json
 4eb53a71b5015cbe98c58358e15030ccc5893831 assets/aether/models/item/holiday_leaves.json
+746c97465fdcd11aff4631f531503073e97799d4 assets/aether/models/item/holy_sword.json
 33685e67d147ea8e37c0a27248e0dbbdd6f4e9bf assets/aether/models/item/holystone.json
 f0bcefa861f41813a06ac4a626c7e76ad1fa6f1c assets/aether/models/item/holystone_axe.json
-2f7cc08d33f927d3be4f8b95975f7f2ba834dbd3 assets/aether/models/item/holystone_bricks.json
 d4d4bc09d23bdd29d0d7b56d7222eaefc8e35582 assets/aether/models/item/holystone_brick_slab.json
 77d6778f78fc14edb0b9e7ca98985938945586bd assets/aether/models/item/holystone_brick_stairs.json
 a00fa316797595002e627a9ff4992a484c0c752d assets/aether/models/item/holystone_brick_wall.json
+2f7cc08d33f927d3be4f8b95975f7f2ba834dbd3 assets/aether/models/item/holystone_bricks.json
 cb1254c596eae42866223aa1b513e809d378b0c9 assets/aether/models/item/holystone_button.json
 10c573ea4233ce1059e62157b6c08b973c68dc92 assets/aether/models/item/holystone_hoe.json
 57ba93f470ac82fee1352c3281678a9f58bab22f assets/aether/models/item/holystone_pickaxe.json
@@ -197,13 +198,12 @@ cb1254c596eae42866223aa1b513e809d378b0c9 assets/aether/models/item/holystone_but
 5a798e8383ffb7d65e7bb853175a493cf323d6d4 assets/aether/models/item/holystone_stairs.json
 b18e1f761b382fb5d0e5f6bb64e4edbf89701a3a assets/aether/models/item/holystone_sword.json
 38122c980a0ca0af1da69b5720ebce3f5e43a503 assets/aether/models/item/holystone_wall.json
-746c97465fdcd11aff4631f531503073e97799d4 assets/aether/models/item/holy_sword.json
+815b8bf7a95cd3a0c7c0cc83942b19f4329783a0 assets/aether/models/item/ice_pendant.json
+6963d00742cdffc091de9a57a12c6c6f84e4fcfe assets/aether/models/item/ice_ring.json
 4968cfce8a4758b14a721e64b5a890bd79e61f5a assets/aether/models/item/icestone.json
 a525eac5a2e27b3be683c7e2be70e9dd8bb102ee assets/aether/models/item/icestone_slab.json
 49ba60d4934a888184837c4462c3489ab56a806e assets/aether/models/item/icestone_stairs.json
 ebdced37fa721572d79522c596d9641c407f6c3b assets/aether/models/item/icestone_wall.json
-815b8bf7a95cd3a0c7c0cc83942b19f4329783a0 assets/aether/models/item/ice_pendant.json
-6963d00742cdffc091de9a57a12c6c6f84e4fcfe assets/aether/models/item/ice_ring.json
 e221be02d2e36dab16a4007800502b8c87faf699 assets/aether/models/item/incubator.json
 ee1bb9de31abd4267f148740a5f97998da2a89a7 assets/aether/models/item/invisibility_cloak.json
 35b997e55f2fc4d048f0a6e1b35463dba35c5906 assets/aether/models/item/iron_bubble.json
@@ -232,10 +232,10 @@ b4d64d7a56779263ab3c512815b38136274c65db assets/aether/models/item/leather_glove
 1664669a3566dd2084f7377cdffdd9d118334939 assets/aether/models/item/leather_gloves_quartz_trim.json
 fd3babbe03f8adceff43b96fa323509f6115dec4 assets/aether/models/item/leather_gloves_redstone_trim.json
 9d62148859594590572dbce907972ab6f52f7f76 assets/aether/models/item/life_shard.json
-88265d4da821b0de63b5b0058fb45c0c68173311 assets/aether/models/item/lightning_knife.json
-4d27cd7eb2bbf7e9e5a7151751e13a7d03b1da0c assets/aether/models/item/lightning_sword.json
 b2eb3d83d27d03fa57cfc2c1dd95bcd82d78212e assets/aether/models/item/light_angelic_stone.json
 5f03e27dbbb9611a0243b707ed0b25f0eb5a3eb0 assets/aether/models/item/light_hellfire_stone.json
+88265d4da821b0de63b5b0058fb45c0c68173311 assets/aether/models/item/lightning_knife.json
+4d27cd7eb2bbf7e9e5a7151751e13a7d03b1da0c assets/aether/models/item/lightning_sword.json
 d2adb2f788cdc39adbb3f393da9cf334988ed08e assets/aether/models/item/locked_angelic_stone.json
 6168d02b10e52b966f638f4e48fb38a536b37799 assets/aether/models/item/locked_carved_stone.json
 8ba0f533f19eadf9d1d0097e9c3cc701334d6371 assets/aether/models/item/locked_hellfire_stone.json

@@ -15,14 +15,14 @@ public class AetherSoundData extends SoundDefinitionsProvider {
     public void registerSounds() {
         // Blocks
         this.add(AetherSoundEvents.BLOCK_AETHER_PORTAL_AMBIENT,
-                definition().with(sound("minecraft:portal/portal").attenuationDistance(10))
+                definition().with(sound("aether:block/aether_portal/idle").attenuationDistance(10))
                 .subtitle("subtitles.aether.block.aether_portal.ambient")
         );
         this.add(AetherSoundEvents.BLOCK_AETHER_PORTAL_TRAVEL,
-                definition().with(sound("minecraft:portal/travel"))
+                definition().with(sound("aether:block/aether_portal/travel"))
         );
         this.add(AetherSoundEvents.BLOCK_AETHER_PORTAL_TRIGGER,
-                definition().with(sound("minecraft:portal/trigger"))
+                definition().with(sound("aether:block/aether_portal/trigger"))
                 .subtitle("subtitles.aether.block.aether_portal.trigger")
         );
         this.add(AetherSoundEvents.BLOCK_CHEST_MIMIC_OPEN,

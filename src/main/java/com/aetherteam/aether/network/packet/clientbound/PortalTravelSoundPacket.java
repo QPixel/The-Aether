@@ -2,6 +2,7 @@ package com.aetherteam.aether.network.packet.clientbound;
 
 import com.aetherteam.aether.block.portal.PortalSoundUtil;
 import com.aetherteam.nitrogen.network.BasePacket;
+import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.world.entity.player.Player;
@@ -20,6 +21,7 @@ public record PortalTravelSoundPacket() implements BasePacket {
     @Override
     public void execute(Player playerEntity) {
         if (Minecraft.getInstance().player != null && Minecraft.getInstance().level != null) {
+            LogUtils.getLogger().info("Executed?");
             PortalSoundUtil.playPortalSound(Minecraft.getInstance().player);
         }
     }

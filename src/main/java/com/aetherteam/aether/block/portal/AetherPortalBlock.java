@@ -171,4 +171,5 @@ public class AetherPortalBlock extends Block {
 	public ItemStack getCloneItemStack(BlockGetter level, BlockPos pos, BlockState state) {
 		return ItemStack.EMPTY;
 	}
+
 }

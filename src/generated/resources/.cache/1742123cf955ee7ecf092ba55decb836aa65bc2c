@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-14T15:32:59.2589219	Block States: aether
+// 1.20.1	2023-12-29T16:57:56.1545	Block States: aether
 79cb0c0ea34a92e86b03080a209cb60f268cb31e assets/aether/blockstates/aerogel.json
 28f7eea22b621bda459b2328c2252cdebe0bcdb9 assets/aether/blockstates/aerogel_slab.json
 0866f96b2339b894ff4c8a01aebb3d87103eb0fb assets/aether/blockstates/aether_dirt.json
@@ -49,10 +49,10 @@ b89fee872a6b62100c6b5aaf1494af8f249ff471 assets/aether/blockstates/hellfire_slab
 a8f89e43b49b6f106ca677f3a8b6f59e5053479b assets/aether/blockstates/hellfire_wall.json
 76f883ca48809c9c29e5a5a6a076e688a0e2dbaf assets/aether/blockstates/holiday_leaves.json
 94b6a890e6f5c9b5a99241e422563747ab94a2c3 assets/aether/blockstates/holystone.json
-722f219604ba1bbe39259e89b72af6fe67fff92d assets/aether/blockstates/holystone_bricks.json
 23de9de37f555a7d99d64b525f70f4322f81fca4 assets/aether/blockstates/holystone_brick_slab.json
 269c88d5040d6829d988001f68316308d889324e assets/aether/blockstates/holystone_brick_stairs.json
 403dc2952eee245d0947b4924d98f8a00441d922 assets/aether/blockstates/holystone_brick_wall.json
+722f219604ba1bbe39259e89b72af6fe67fff92d assets/aether/blockstates/holystone_bricks.json
 563545f87528e3d6409a3bf8a3478a0b9c308034 assets/aether/blockstates/holystone_button.json
 1d7a8b7db7211968f579529dcf0d2dd75956c72c assets/aether/blockstates/holystone_pressure_plate.json
 7a73c9cfdd5b25b636298dbc57982c6672aef37c assets/aether/blockstates/holystone_slab.json
@@ -202,7 +202,6 @@ c488a7b41c1c2f59370f06e0eb03b4ac46441ea8 assets/aether/models/block/hellfire_sta
 5d49be3a1395c59b573f45212a5749236fee044b assets/aether/models/block/hellfire_wall_side_tall.json
 31f3a9e6e803f8118ea950420d536d0b50045ae0 assets/aether/models/block/holiday_leaves.json
 42f427f78c5b7b299b38f5c0cfd10d3427d565d7 assets/aether/models/block/holystone.json
-47acbb92e9c89f6de7b08eee22df5f0e952c6916 assets/aether/models/block/holystone_bricks.json
 71359d3801a048e86f5a146eed9fac10cb9528ec assets/aether/models/block/holystone_brick_slab.json
 24c8d1f12c4eadedb2535e3b9cb1d8730255081d assets/aether/models/block/holystone_brick_slab_top.json
 95855de5a91348ef59c140c2977c9f4d7438a1bc assets/aether/models/block/holystone_brick_stairs.json
@@ -211,6 +210,7 @@ c488a7b41c1c2f59370f06e0eb03b4ac46441ea8 assets/aether/models/block/hellfire_sta
 e47d9babaa5c038619e5f8538debfcc1053cb749 assets/aether/models/block/holystone_brick_wall_post.json
 871f3e0bd06ddc60e77734e07373fe258aa679f4 assets/aether/models/block/holystone_brick_wall_side.json
 56a6ebb36d1c38a4ada79045e246708813533724 assets/aether/models/block/holystone_brick_wall_side_tall.json
+47acbb92e9c89f6de7b08eee22df5f0e952c6916 assets/aether/models/block/holystone_bricks.json
 af844633fc1fa2468bc09068fad876027f672e6b assets/aether/models/block/holystone_button.json
 4dafbc2bba3be93add015586190ccd0a17489707 assets/aether/models/block/holystone_button_pressed.json
 39bb6e8edea188a6bdfbaf662dbbd6aac0998aea assets/aether/models/block/holystone_pressure_plate.json

@@ -3,19 +3,19 @@
     "sounds": [
       {
         "attenuation_distance": 10,
-        "name": "portal/portal"
+        "name": "aether:block/aether_portal/idle"
       }
     ],
     "subtitle": "subtitles.aether.block.aether_portal.ambient"
   },
   "block.aether_portal.travel": {
     "sounds": [
-      "portal/travel"
+      "aether:block/aether_portal/travel"
     ]
   },
   "block.aether_portal.trigger": {
     "sounds": [
-      "portal/trigger"
+      "aether:block/aether_portal/trigger"
     ],
     "subtitle": "subtitles.aether.block.aether_portal.trigger"
   },
