@@ -2,7 +2,7 @@
   "block.aether_portal.ambient": {
     "sounds": [
       {
-        "attenuation_distance": 10,
+        "attenuation_distance": 2,
         "name": "aether:block/aether_portal/idle"
       }
     ],

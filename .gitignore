@@ -28,3 +28,6 @@ forge*changelog.txt
 .vscode/
 /Users/
 src/generated/resources/.cache/cache
+
+# OS Specific Files
+**/.DS_Store

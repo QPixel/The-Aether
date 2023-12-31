@@ -15,7 +15,7 @@ public class AetherSoundData extends SoundDefinitionsProvider {
     public void registerSounds() {
         // Blocks
         this.add(AetherSoundEvents.BLOCK_AETHER_PORTAL_AMBIENT,
-                definition().with(sound("aether:block/aether_portal/idle").attenuationDistance(10))
+                definition().with(sound("aether:block/aether_portal/idle").attenuationDistance(2))
                 .subtitle("subtitles.aether.block.aether_portal.ambient")
         );
         this.add(AetherSoundEvents.BLOCK_AETHER_PORTAL_TRAVEL,
